@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html
+  lang="en"
+  style="
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  "
+>
+  <head>
+    <title>Code(pi)R's 1st drawing.</title>
+    <style>
+      .viewport {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      tr {
+        display: flex;
+      }
+      td {
+        width: 75px !important;
+        margin: 0;
+        height: 75px !important;
+        padding: 0;
+        border-radius: 5px;
+      }
+    </style>
+  </head>
+  <body
+    style="
+      height: 100%;
+      width: 100%;
+      margin: 0;
+      background-color: black;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    "
+  >
+    <table
+      style="
+        width: max-content !important;
+        height: max-content !important;
+        background-color: white;
+        filter: blur(2px);
+        border: 20px solid white;
+        border-radius: 10px;
+      "
+    >
+      <tr class="row1">
+        <td class="col1" style="background-color: #aaa2d5"></td>
+        <td class="col2" style="background-color: #b1abcd"></td>
+        <td class="col3" style="background-color: #b1abcd"></td>
+        <td class="col4" style="background-color: #a597bb"></td>
+        <td class="col5" style="background-color: #9c90a6"></td>
+        <td class="col6" style="background-color: #ad9bab"></td>
+        <td class="col7" style="background-color: #ac97aa"></td>
+        <td class="col8" style="background-color: #998ba4"></td>
+        <td class="col9" style="background-color: #a698b1"></td>
+        <td class="col10" style="background-color: #a9a0bb"></td>
+        <td class="col11" style="background-color: #a098b0"></td>
+        <td class="col12" style="background-color: #a59db4"></td>
+        <td class="col13" style="background-color: #9397b0"></td>
+        <td class="col14" style="background-color: #989cb5"></td>
+      </tr>
+      <tr class="row2">
+        <td class="col1" style="background-color: #a5a0d8"></td>
+        <td class="col2" style="background-color: #bcb7e0"></td>
+        <td class="col3" style="background-color: #bab2d9"></td>
+        <td class="col4" style="background-color: #bdb1d5"></td>
+        <td class="col5" style="background-color: #a494af"></td>
+        <td class="col6" style="background-color: #c29487"></td>
+        <td class="col7" style="background-color: #4c2a07"></td>
+        <td class="col8" style="background-color: #643e2b"></td>
+        <td class="col9" style="background-color: #9384a3"></td>
+        <td class="col10" style="background-color: #a79eb9"></td>
+        <td class="col11" style="background-color: #a79fb7"></td>
+        <td class="col12" style="background-color: #aba2c1"></td>
+        <td class="col13" style="background-color: #9996b3"></td>
+        <td class="col14" style="background-color: #9397b2"></td>
+      </tr>
+      <tr class="row3">
+        <td class="col1" style="background-color: #a5a7d7"></td>
+        <td class="col2" style="background-color: #bbb8e3"></td>
+        <td class="col3" style="background-color: #bbb5db"></td>
+        <td class="col4" style="background-color: #b9b5d6"></td>
+        <td class="col5" style="background-color: #bbb5db"></td>
+        <td class="col6" style="background-color: #c29ea0"></td>
+        <td class="col7" style="background-color: #6d3d3b"></td>
+        <td class="col8" style="background-color: #8c5f66"></td>
+        <td class="col9" style="background-color: #a78eae"></td>
+        <td class="col10" style="background-color: #b2a2bd"></td>
+        <td class="col11" style="background-color: #b3a7bf"></td>
+        <td class="col12" style="background-color: #a7a3be"></td>
+        <td class="col13" style="background-color: #9d97b1"></td>
+        <td class="col14" style="background-color: #9094ad"></td>
+      </tr>
+      <tr class="row4">
+        <td class="col1" style="background-color: #acabd7"></td>
+        <td class="col2" style="background-color: #bebce1"></td>
+        <td class="col3" style="background-color: #c0b8d9"></td>
+        <td class="col4" style="background-color: #bdb2cc"></td>
+        <td class="col5" style="background-color: #ab92b0"></td>
+        <td class="col6" style="background-color: #b19fab"></td>
+        <td class="col7" style="background-color: #97635d"></td>
+        <td class="col8" style="background-color: #855f64"></td>
+        <td class="col9" style="background-color: #928392"></td>
+        <td class="col10" style="background-color: #b1a4bd"></td>
+        <td class="col11" style="background-color: #a79eb4"></td>
+        <td class="col12" style="background-color: #b2acc6"></td>
+        <td class="col13" style="background-color: #a4a1bc"></td>
+        <td class="col14" style="background-color: #9ea3be"></td>
+      </tr>
+      <tr class="row5">
+        <td class="col1" style="background-color: #aeabd7"></td>
+        <td class="col2" style="background-color: #afadda"></td>
+        <td class="col3" style="background-color: #ada5ca"></td>
+        <td class="col4" style="background-color: #b5a5c4"></td>
+        <td class="col5" style="background-color: #ac8e9c"></td>
+        <td class="col6" style="background-color: #2c1c0c"></td>
+        <td class="col7" style="background-color: #86504c"></td>
+        <td class="col8" style="background-color: #675c63"></td>
+        <td class="col9" style="background-color: #b39aa8"></td>
+        <td class="col10" style="background-color: #ae96a4"></td>
+        <td class="col11" style="background-color: #ac9eb5"></td>
+        <td class="col12" style="background-color: #aea8cb"></td>
+        <td class="col13" style="background-color: #a3a2c0"></td>
+        <td class="col14" style="background-color: #9497b6"></td>
+      </tr>
+      <tr class="row6">
+        <td class="col1" style="background-color: #b7b6d7"></td>
+        <td class="col2" style="background-color: #b1adda"></td>
+        <td class="col3" style="background-color: #b1a8bd"></td>
+        <td class="col4" style="background-color: #422a30"></td>
+        <td class="col5" style="background-color: #232416"></td>
+        <td class="col6" style="background-color: #2c2b2a"></td>
+        <td class="col7" style="background-color: #7c7c86"></td>
+        <td class="col8" style="background-color: #746166"></td>
+        <td class="col9" style="background-color: #030003"></td>
+        <td class="col10" style="background-color: #a99caf"></td>
+        <td class="col11" style="background-color: #a196ac"></td>
+        <td class="col12" style="background-color: #afa2ba"></td>
+        <td class="col13" style="background-color: #afa4bc"></td>
+        <td class="col14" style="background-color: #9293ae"></td>
+      </tr>
+      <tr class="row7">
+        <td class="col1" style="background-color: #bfbddb"></td>
+        <td class="col2" style="background-color: #bab6cf"></td>
+        <td class="col3" style="background-color: #aea1b5"></td>
+        <td class="col4" style="background-color: #261d0e"></td>
+        <td class="col5" style="background-color: #212317"></td>
+        <td class="col6" style="background-color: #42403c"></td>
+        <td class="col7" style="background-color: #615a57"></td>
+        <td class="col8" style="background-color: #4d3940"></td>
+        <td class="col9" style="background-color: #282526"></td>
+        <td class="col10" style="background-color: #a294a1"></td>
+        <td class="col11" style="background-color: #a89dae"></td>
+        <td class="col12" style="background-color: #b5a7c0"></td>
+        <td class="col13" style="background-color: #adaabb"></td>
+        <td class="col14" style="background-color: #9493aa"></td>
+      </tr>
+      <tr class="row8">
+        <td class="col1" style="background-color: #bbb8d2"></td>
+        <td class="col2" style="background-color: #aca1b6"></td>
+        <td class="col3" style="background-color: #a99da9"></td>
+        <td class="col4" style="background-color: #202010"></td>
+        <td class="col5" style="background-color: #131801"></td>
+        <td class="col6" style="background-color: #21241b"></td>
+        <td class="col7" style="background-color: #282a27"></td>
+        <td class="col8" style="background-color: #2a2826"></td>
+        <td class="col9" style="background-color: #2c2724"></td>
+        <td class="col10" style="background-color: #97899a"></td>
+        <td class="col11" style="background-color: #ac9db0"></td>
+        <td class="col12" style="background-color: #a79db6"></td>
+        <td class="col13" style="background-color: #9f9db3"></td>
+        <td class="col14" style="background-color: #999caf"></td>
+      </tr>
+      <tr class="row9">
+        <td class="col1" style="background-color: #a8a6bb"></td>
+        <td class="col2" style="background-color: #aca3b5"></td>
+        <td class="col3" style="background-color: #a599a8"></td>
+        <td class="col4" style="background-color: #242714"></td>
+        <td class="col5" style="background-color: #141706"></td>
+        <td class="col6" style="background-color: #61413c"></td>
+        <td class="col7" style="background-color: #222b29"></td>
+        <td class="col8" style="background-color: #20251f"></td>
+        <td class="col9" style="background-color: #1d220e"></td>
+        <td class="col10" style="background-color: #86818f"></td>
+        <td class="col11" style="background-color: #9c9daf"></td>
+        <td class="col12" style="background-color: #9599ac"></td>
+        <td class="col13" style="background-color: #9b9bb2"></td>
+        <td class="col14" style="background-color: #9096a5"></td>
+      </tr>
+      <tr class="row10">
+        <td class="col1" style="background-color: #9293a4"></td>
+        <td class="col2" style="background-color: #9b98ab"></td>
+        <td class="col3" style="background-color: #a294aa"></td>
+        <td class="col4" style="background-color: #1f1d05"></td>
+        <td class="col5" style="background-color: #261e08"></td>
+        <td class="col6" style="background-color: #895558"></td>
+        <td class="col7" style="background-color: #20271f"></td>
+        <td class="col8" style="background-color: #7e535d"></td>
+        <td class="col9" style="background-color: #29282d"></td>
+        <td class="col10" style="background-color: #958e9d"></td>
+        <td class="col11" style="background-color: #9794a7"></td>
+        <td class="col12" style="background-color: #9798aa"></td>
+        <td class="col13" style="background-color: #9e9ca7"></td>
+        <td class="col14" style="background-color: #a9abb7"></td>
+      </tr>
+    </table>
+  </body>
+</html>
