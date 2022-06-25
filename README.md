@@ -1,3 +1,3 @@
 # web-cssDrawings
 
-## The list of all the drawings which I made usig pure CSS!
+## The list of all the drawings which I made using pure CSS!
